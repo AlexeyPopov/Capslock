@@ -19,13 +19,16 @@
               ]
             }
           },
-          "to": [
+          "to_if_held_down": [
             {
               "set_variable": {
                 "name": "hyphern_mode",
                 "value": 1
               }
             }
+          ],
+          "to": [
+            
           ],
           "to_if_alone": [
             {
