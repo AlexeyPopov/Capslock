@@ -28,7 +28,9 @@
             }
           ],
           "to": [
-            
+            {
+              "key_code": "vk_none"
+            }
           ],
           "to_if_alone": [
             {
