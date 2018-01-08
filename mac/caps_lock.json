@@ -350,7 +350,7 @@
           },
           "to": [
             {
-              "key_code": "home",
+              "key_code": "end",
               "modifiers": [
                 "left_shift"
               ]
@@ -372,7 +372,7 @@
           },
           "to": [
             {
-              "key_code": "home"
+              "key_code": "end"
             }
           ]
         },
