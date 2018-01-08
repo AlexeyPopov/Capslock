@@ -1,5 +1,5 @@
 #!/bin/bash
 
-mkdir -p "${HOME}/.config/karabiner/assets/complex_modifications/"
-cp ./capslock.json "${HOME}/.config/karabiner/assets/complex_modifications/capslock.json"
+# mkdir -p "${HOME}/.config/karabiner/assets/complex_modifications/"
+cp ./caps_lock.json "${HOME}/projects/karabiner_config/karabiner/assets/complex_modifications/capslock.json"
 echo "${HOME}/.config/karabiner/assets/complex_modifications/capslock.json" Done
